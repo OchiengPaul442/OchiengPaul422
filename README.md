@@ -8,19 +8,16 @@ I'm a freelance web and mobile developer with a passion for creating clean, user
 
 ## 💻 I have experience in ...
 
-- HTML, CSS and JavaScript: The core technologies for building web pages and web applications.
-- PHP: A server-side scripting language for dynamic web development.
-- React.js: A JavaScript library for building user interfaces with components.
-- React Native: A framework for building native mobile apps with React.
-- Laravel: A PHP framework for web development following the MVC pattern.
-- Django: A Python framework for web development following the MTV pattern.
+<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/icons/html.svg" alt="HTML" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/icons/css.svg" alt="CSS" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/icons/javascript.svg" alt="JavaScript" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/icons/php.svg" alt="PHP" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/icons/react.svg" alt="React.js" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/icons/react-native.svg" alt="React Native" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/icons/laravel.svg" alt="Laravel" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/icons/django.svg" alt="Django" width="32" height="32"/>
 
 ## 📫 How to reach me ...
 
-- Email: ochiengpaul442@gmail.com or ochieng442@outlook.com
-- Twitter: @OchiengTech
-- Facebook: ochieng.paul.714
-- LinkedIn: in/paulochieng442
+<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/icons/email.svg" alt="Email" width="16" height="16"/> Email: ochiengpaul442@gmail.com or ochieng442@outlook.com
+<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/icons/twitter.svg" alt="Twitter" width="16" height="16"/> Twitter: @OchiengTech
+<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/icons/facebook.svg" alt="Facebook" width="16" height="16"/> Facebook: ochieng.paul.714
+<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons/icons/linkedin.svg" alt="LinkedIn" width="16" height="16"/> LinkedIn: in/paulochieng442
 
 ## 📊 My GitHub stats ...
 
