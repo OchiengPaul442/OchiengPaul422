@@ -4,7 +4,7 @@ I'm a freelance web and mobile developer with a passion for creating clean, user
 
 ## 🔭 I’m currently working on ...
 
-- PROMED_UNIT_APP: A Mobile app that allows users to manage mental health disorders.
+- PROMED APP: A Mobile app that allows users to manage mental health disorders.
 
 ## 💻 I have experience in ...
 
