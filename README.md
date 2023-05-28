@@ -2,6 +2,8 @@
 
 I'm a freelance web and mobile developer with a passion for creating clean, user-friendly websites and mobile apps that deliver results. In my free time, I enjoy watching anime and learning new technologies.
 
+Portfolio: https://ochiengpaul442.github.io/portfoliosite
+
 ## 🔭 I’m currently working on ...
 
 - PROMED APP: A Mobile app that allows users to manage mental health disorders.
