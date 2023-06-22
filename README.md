@@ -24,8 +24,4 @@ Portfolio: https://ochiengpaul442.github.io/portfoliosite
 - Facebook: ochieng.paul.714
 - LinkedIn: in/paulochieng442
 
-## 📊 My GitHub stats ...
 
-![OchiengPaul442's GitHub stats](https://github-readme-stats.vercel.app/api?username=OchiengPaul442&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OchiengPaul442&layout=compact&theme=radical)
